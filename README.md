@@ -31,7 +31,7 @@ Here are some of the key projects I've worked on:
    - **Description:** Developed various automation scripts for routine tasks.
    - **Repository:** [GitHub](https://github.com/yourusername/script-automation)
 
-## AWS Certification
+## Certification
 - **Certification:** AWS Certified Solution Architect Associate (AWS) 
 - **Certification:** Patent law for engineers and scientist (NPTEL)
 - **Certification:** Emotional intelligence (NPTEL)
