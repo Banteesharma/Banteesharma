@@ -11,9 +11,12 @@ Welcome to my DevOps Engineer portfolio. I am Bantee Sharma, an AWS Certified So
 ## Projects
 Here are some of the key projects I've worked on:
 
-1. **CI/CD Pipeline Automation**
-   - **Description:** Automated CI/CD pipelines using Jenkins, Git, Docker, and Kubernetes.
-   - **Repository:** [GitHub](https://github.com/Banteesharma/banteeSharma.git)
+1. **CI/CD Pipeline Automation with GitHub Actions**
+   - **Description:** Serverless AWS Lambda Deployment: A Python Application Deployment Project.
+   - **Repository:** [GitHub](https://github.com/Banteesharma/Serverless-AWS-Lambda-Deployment.git)
+   - **Description:** Automated React Application Deployment
+   - **Repository:** [GitHub](https://github.com/Banteesharma/Automated-React-Application-Deploymen.git)
+  
 
 2. **Infrastructure as Code (IaC) with Terraform**
    - **Description:** Provisioned AWS infrastructure using Terraform.
