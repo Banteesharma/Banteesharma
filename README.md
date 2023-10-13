@@ -32,9 +32,7 @@ Here are some of the key projects I've worked on:
    - **Repository:** [GitHub](https://github.com/yourusername/script-automation)
 
 ## Certification
-- **Certification:** AWS Certified Solution Architect Associate (AWS) 
- [![AWS Certified Solution Architect](URL-TO-YOUR-BADGE-IMAGE)](https://www.your-certification-url.com)
-
+- **Certification:** AWS Certified Solution Architect Associate (AWS)
 - **Certification:** Patent law for engineers and scientist (NPTEL)
 - **Certification:** Emotional intelligence (NPTEL)
 - **Certification:** Enhancing soft skills and personality (NPTEL)
