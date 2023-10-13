@@ -1,8 +1,7 @@
 # DevOps Engineer Portfolio - Bantee Sharma
 
 ## Introduction
-Welcome to my DevOps Engineer portfolio. I am Bantee Sharma, an AWS Certified Solution Architect Associate. This portfolio showcases my expertise, experience, and projects in the DevOps field.
-
+Welcome to my DevOps Engineer portfolio. I am Bantee Sharma, an AWS Certified Solutions Architect – Associate with expertise in AWS, Azure, and Google Cloud Platform (GCP). Proven ability to manage multi-cloud environments, specializing in infrastructure, DevOps, containerization, virtualization, version control, cloud computing, database management, and load balancing. Strong foundation in multiple technologies and a commitment to excellence, delivering outstanding results consistently
 ## Contact Information
 - **Name:** Bantee Sharma
 - **Email:** bantee220@gmail.com
@@ -33,6 +32,14 @@ Here are some of the key projects I've worked on:
    - **Repository:** [GitHub](https://github.com/yourusername/script-automation)
 
 ## AWS Certification
-- **Certification:** AWS Certified Solution Architect Associate
+- **Certification:** AWS Certified Solution Architect Associate (AWS) 
+- **Certification:** Patent law for engineers and scientist (NPTEL)
+- **Certification:** Emotional intelligence (NPTEL)
+- **Certification:** Enhancing soft skills and personality (NPTEL)
+- **Certification:** MATLAB TRAINING (Internshala)
+- **Certification:** Docker Best practices (Great Learning)
+- **Certification:** Cloud with DevOps training certificate
+- **Certification:** Awsome day online confrence (AWS)
 
-Feel free to reach out to me via email or LinkedIn for collaboration, questions, or further information.
+
+  Feel free to reach out to me via email or LinkedIn for collaboration, questions, or further information.
